@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Pablo Castillo
+  company: Crush & Lovely
+  description: Installs Forever and Copies an Upstart Script for a worker type process
+  license: MIT
+  min_ansible_version: 1.6
+  platforms:
+    - name: Ubuntu
+      versions:
+        - precise
+  categories:
+    - system
+    - cloud
+dependencies: []
